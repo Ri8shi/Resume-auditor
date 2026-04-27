@@ -1,0 +1,6 @@
+{
+  "name": "Resume Bias Auditor",
+  "description": "An objective AI auditor that evaluates resumes against job descriptions by stripping prestige markers and focusing on verifiable facts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
